@@ -1,0 +1,1 @@
+before using this code from lib use hive(NoSql database) from official flutter website as a plugin asset in yaml file.
